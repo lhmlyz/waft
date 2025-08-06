@@ -4,7 +4,7 @@ package dsa;
 // to run java dsa.AplusB 3 5
 public class AplusB {
     public static void main(String... args) {
-        int[] nums = { 1, 3, 4, 5, 6 };
+        int[] nums = { 1, 3, 4, 5, 6, 9};
         int target = 9;
         int[] result = twoSum(nums, target);
         if (result != null) {
