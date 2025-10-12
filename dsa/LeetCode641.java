@@ -1,4 +1,4 @@
-class LeerCode641 {
+class LeetCode641 {
     int front;
     int rear;
     int maxSize;
